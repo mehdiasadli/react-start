@@ -9,10 +9,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.13",
+    "axios": "^1.1.3",
     "framer-motion": "^7.6.2",
+    "i18next": "^22.0.5",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
     "react-i18next": "^12.0.0",
+    "react-query": "^3.39.2",
+    "react-router-dom": "^6.4.3",
     "styled-components": "^5.3.6"
   },
   "devDependencies": {
